@@ -11,26 +11,9 @@ A list of technologies used within the project:
 
 * [https://estadosfinancieros2022.github.io/https://github.com/iplancinco/estadosfinancieros2022]
 *
-* https://iplancinco.github.io/estadosfinancieros.github.io/Estados_Financieros_Plan_Cinco_2022_notas.pdf
 
-* 
-* https://iplancinco/estadosfinancieros.github.io/Estados_Financieros_Plan_Cinco_2022_notas.pdf
-
-* * https://iplancinco/estadosfinancieros.github.io/Estados-Financieros-Plan-Cinco-2022-notas.pdf
-
-* 
-* https://iplancinco.github.io/estadosfinancieros/Estados-Financieros-Plan-Cinco-2022-notas.pdf
 
 * 
 * https://iplancinco.github.io/estadosfinancieros/Estados_Financieros_Plan_Cinco_2022_notas.pdf
 
-* 
-
-* https://iplancinco/estadosfinancieros2022.github.io/blob/main/Estados_Financieros_Plan_Cinco_2022_notas.pdf
-
-https://estadosfinancieros2022.github.io/blob/main/Estados_Financieros_Plan_Cinco_2022_notas.pdf)
-
-https://iplancinco/estadosfinancieros2022.github.io/blob/main/Estados_Financieros_Plan_Cinco_2022_notas.pdf
-
-Como ejemplo con mi cv:https://programonaut.github.io/cv/build-files/cv-maximilian-kuerschner.pdf)
   
