@@ -9,7 +9,22 @@ A list of technologies used within the project:
 
 * [Estados finacieros 2022](https://estadosfinancieros2022.github.io/blob/main/Estados_Financieros_Plan_Cinco_2022_notas.pdf)
 
-* https://estadosfinancieros2022.github.io/https://github.com/iplancinco/estadosfinancieros2022.github.io/blob/main/Estados_Financieros_Plan_Cinco_2022_notas.pdf)
+* [https://estadosfinancieros2022.github.io/https://github.com/iplancinco/estadosfinancieros2022]
+*
+* https://iplancinco.github.io/estadosfinancieros.github.io/Estados_Financieros_Plan_Cinco_2022_notas.pdf
+
+* 
+* https://iplancinco/estadosfinancieros.github.io/Estados_Financieros_Plan_Cinco_2022_notas.pdf
+
+* * https://iplancinco/estadosfinancieros.github.io/Estados-Financieros-Plan-Cinco-2022-notas.pdf
+
+* 
+* https://iplancinco.github.io/estadosfinancieros/Estados-Financieros-Plan-Cinco-2022-notas.pdf
+
+* 
+* https://iplancinco.github.io/estadosfinancieros/Estados_Financieros_Plan_Cinco_2022_notas.pdf
+
+* 
 
 * https://iplancinco/estadosfinancieros2022.github.io/blob/main/Estados_Financieros_Plan_Cinco_2022_notas.pdf
 
